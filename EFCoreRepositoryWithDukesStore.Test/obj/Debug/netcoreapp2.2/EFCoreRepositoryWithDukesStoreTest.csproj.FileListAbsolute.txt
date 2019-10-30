@@ -1,0 +1,16 @@
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.deps.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.runtimeconfig.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.runtimeconfig.dev.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.pdb
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.pdb
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.csprojAssemblyReference.cache
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.AssemblyInfoInputs.cache
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.AssemblyInfo.cs
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.csproj.CopyComplete
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStoreTest.pdb

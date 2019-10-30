@@ -1,0 +1,7 @@
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.deps.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.csprojAssemblyReference.cache
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.AssemblyInfoInputs.cache
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\obj\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.AssemblyInfo.cs
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.runtimeconfig.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.Test\bin\Debug\netcoreapp3.0\EFCoreRepositoryWithDukesStore.Test.runtimeconfig.dev.json

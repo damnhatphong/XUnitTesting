@@ -1,0 +1,10 @@
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.deps.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.runtimeconfig.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.runtimeconfig.dev.json
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\bin\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.pdb
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.AssemblyInfoInputs.cache
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.AssemblyInfo.cs
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.dll
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.pdb
+D:\Phong\Demo\EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore\obj\Debug\netcoreapp2.2\EFCoreRepositoryWithDukesStore.csprojAssemblyReference.cache

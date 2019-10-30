@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreRepositoryWithDukesStore", "EFCoreRepositoryWithDukesStore\EFCoreRepositoryWithDukesStore.csproj", "{0CA2B4DC-065F-443A-B77C-B02FDC966F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreRepositoryWithDukesStoreTest", "EFCoreRepositoryWithDukesStore.Test\EFCoreRepositoryWithDukesStoreTest.csproj", "{1637958A-2952-4976-A5E1-2578ED0100C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA2B4DC-065F-443A-B77C-B02FDC966F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA2B4DC-065F-443A-B77C-B02FDC966F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA2B4DC-065F-443A-B77C-B02FDC966F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA2B4DC-065F-443A-B77C-B02FDC966F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1637958A-2952-4976-A5E1-2578ED0100C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1637958A-2952-4976-A5E1-2578ED0100C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1637958A-2952-4976-A5E1-2578ED0100C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1637958A-2952-4976-A5E1-2578ED0100C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F4EE2B-4321-44EC-BDD4-8B00C6FEC435}
+	EndGlobalSection
+EndGlobal
